@@ -12,7 +12,7 @@
 - 🛠 **Skills:** 
   - **Programming Languages:** C
   - **Hardware Platforms:** Arduino 
-  - **Tools:** Git, VS Code,
+  - **Tools:** Git, VS Code, Vivado (FPGA Testing)
 - 📫 **Contact:** Reach me at rodrigo.f.machado@tecnico.ulisboa.pt
 
 ## Featured Projects
@@ -25,7 +25,6 @@ A comprehensive home automation system leveraging Arduino and Raspberry Pi to co
 Feel free to reach out if you're interested in collaborating on projects or just want to chat about tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/EngenheiroRodas)
 
 <!---
 EngenheiroRodas/EngenheiroRodas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
