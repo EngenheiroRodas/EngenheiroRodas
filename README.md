@@ -18,7 +18,7 @@
 ## Featured Projects
 
 ### 1. Placeholder
-A comprehensive home automation system leveraging Arduino and Raspberry Pi to control lighting, heating, and security systems remotely.
+A.
 
 ## Get in Touch
 
