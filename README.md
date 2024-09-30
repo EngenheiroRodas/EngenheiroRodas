@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngenheiroRodas
+- 👋 Hi, my name is Rodrigo Machado and I’m currently studying at [Técnico, Lisboa](https://tecnico.ulisboa.pt/)
 - 👀 I’m fascinated by all things that bridge software and hardware: Arduinos, computers, and everything in between!
 - 🌱 I’m currently diving deep into Electronic and Computer Engineering, exploring the synergy of circuits and code, at Técnico, Lisboa.
 - 📫 Reach me at: rodrigo.f.machado@tecnico.ulisboa.pt
